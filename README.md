@@ -52,6 +52,6 @@ This project is a Power BI dashboard that provides insights into sales, profit, 
 
 ## 🌟 Author
 
-**Your Name**  
+**G.SUNIL KUMAR REDDY**  
 📧 reddysu81@gmail.com  
 🔗 [https://github.com/gitwithsunil]
